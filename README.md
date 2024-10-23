@@ -4,7 +4,7 @@ This page showcases a collection of conceptual web designs that I created throug
 
 ## Accessible Web Design
 
-This project shows the complete design process of a zoo-themed website, created as part of an 'Interaction and Interface Design' course. The focus of this task was on aesthetic design, user-friendliness, and web accessibility, ensuring an engaging and inclusive experience for all users.
+This project shows the complete design process of a zoo-themed website, created as part of an 'Interaction and Interface Design' course. The focus of this task was on aesthetic design, user-experience, and web accessibility, ensuring an engaging and inclusive experience for all users.
 
 https://www.figma.com/design/ltes80jholbDXapDpNgS0F/ZOO?node-id=0-1&t=ssifAQipYRCzZwHc-1
 
